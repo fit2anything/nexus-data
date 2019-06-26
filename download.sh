@@ -1,4 +1,4 @@
-for i in $(cat image.txt);
+for i in $(cat images.txt);
 do 
   docker pull $i;
   docker tag localhost:8082/$i localhost:8082/$i;
