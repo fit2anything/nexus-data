@@ -19,7 +19,7 @@ docker.io/mirrorgooglecontainers/heapster-amd64:v1.5.4
 docker.io/mirrorgooglecontainers/heapster-influxdb-amd64:v1.5.2
 docker.io/mirrorgooglecontainers/metrics-server-amd64:v0.3.2
 docker.io/traefik:v1.7.11
-docker.io/registry.kubeops.io:8082/grafana/grafana:5.2.1
+docker.io/grafana/grafana:5.2.1
 docker.io/prom/alertmanager:v0.15.2
 docker.io/jimmidyson/configmap-reload:v0.2.2
 docker.io/busybox:latest
